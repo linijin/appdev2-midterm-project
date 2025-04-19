@@ -9,7 +9,7 @@ This project shows a RESTful API that gives the `todos` endpoint from JSONPlaceh
 ## How to Install and Run
 1. Clone the repository  
 ```bash or command line
-git clone https://github.com/yourusername/appdev2-midterm-project.git
+git clone https://github.com/linijin/appdev2-midterm-project.git
 cd appdev2-midterm-project
 
 ## Video Demo Link:
